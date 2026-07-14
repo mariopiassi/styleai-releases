@@ -1,7 +1,7 @@
 {
-  "versionName": "Alpha 1.4",
-  "versionCode": 5,
+  "versionName": "Alpha 1.8",
+  "versionCode": 6,
   "required": false,
-  "apkUrl": "https://github.com/mariopiassi/styleai-releases/releases/download/v0.1.4/StyleAI-Alpha-1.4.apk",
+  "apkUrl": "https://github.com/mariopiassi/styleai-releases/releases/download/v0.1.5/StyleAI-Alpha-1.5.apk",
   "notes": "Melhorias no Arthur, tema claro/escuro, personalização e estabilidade."
 }
