@@ -1,7 +1,7 @@
 {
-  "versionName": "Alpha 1.6.1",
-  "versionCode": 8,
+  "versionName": "Alpha 1.6.2",
+  "versionCode": 9,
   "required": false,
-  "apkUrl": "https://github.com/mariopiassi/styleai-releases/releases/download/v0.1.6.1/StyleAI-Alpha-1.6.1.apk",
-  "notes": "Novo guia de ajuda na tela inicial, melhorias visuais e correções gerais."
+  "apkUrl": "https://github.com/mariopiassi/styleai-releases/releases/download/v0.1.6.2/StyleAI-Alpha-1.6.2.apk",
+  "notes": "Atualizações de desempenho."
 }
